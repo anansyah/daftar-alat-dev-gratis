@@ -1,7 +1,7 @@
 # Daftar Alat Dev Gratis
 
-[![Lisensi: CC0 1.0](https://img.shields.io/badge/Lisensi-CC0%201.0-lightgrey.svg)](#lisensi)
-[![Kontribusi Welcome](https://img.shields.io/badge/kontribusi-welcome-brightgreen.svg)](#cara-berkontribusi)
+[![Lisensi: CC0 1.0](https://img.shields.io/badge/Lisensi-CC0%201.0-lightgrey.svg)](LICENSE)
+[![Kontribusi Welcome](https://img.shields.io/badge/kontribusi-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Kurasi alat pengembangan perangkat lunak yang **gratis** dan/atau **open source**, dikumpulkan untuk membantu pengembang di Indonesia mulai dari belajar hingga produksi.
 
@@ -36,14 +36,8 @@ Kurasi alat pengembangan perangkat lunak yang **gratis** dan/atau **open source*
 
 ## Cara Berkontribusi
 
-1. Fork repositori ini.
-2. Tambahkan alat ke kategori yang sesuai dengan format:
-   ```markdown
-   - [Nama](https://url-alat) - Deskripsi singkat
-   ```
-3. Pastikan alat tersebut gratis atau open source dan masih aktif dikembangkan.
-4. Buka Pull Request dengan judul yang jelas.
+Kontribusi sangat diterima. Baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk kriteria alat dan langkah mengajukan Pull Request.
 
 ## Lisensi
 
-Konten dalam repositori ini dirilis ke domain publik di bawah [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+Konten dalam repositori ini dirilis ke domain publik di bawah [CC0 1.0](LICENSE).
