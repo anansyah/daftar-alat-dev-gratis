@@ -3,7 +3,7 @@
 [![Lisensi: CC0 1.0](https://img.shields.io/badge/Lisensi-CC0%201.0-lightgrey.svg)](#lisensi)
 [![Kontribusi Welcome](https://img.shields.io/badge/kontribusi-welcome-brightgreen.svg)](#cara-berkontribusi)
 
-Kurasi alat pengembangan perangkat lunak yang **gratis** dan/atau **open sourcf**, dikumpulkan untuk membantu pengembang di Indonesia mulai dari belajar hingga produksi.
+Kurasi alat pengembangan perangkat lunak yang **gratis** dan/atau **open source**, dikumpulkan untuk membantu pengembang di Indonesia mulai dari belajar hingga produksi.
 
 ## Daftar Isi
 
