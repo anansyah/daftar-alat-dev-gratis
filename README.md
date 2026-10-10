@@ -41,3 +41,5 @@ Kontribusi sangat diterima. Baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk kriter
 ## Lisensi
 
 Konten dalam repositori ini dirilis ke domain publik di bawah [CC0 1.0](LICENSE).
+
+Teks resmi CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/legalcode
